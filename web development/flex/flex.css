@@ -1,0 +1,119 @@
+body{
+    background-color:grey;
+}
+.temp{
+    background-color: rgb(255, 0, 115);
+    padding:10px;  
+}
+#navbar{
+background-color: black;
+position: sticky;
+top: 0;
+
+padding: 5px;
+}
+.temp1{
+    height: 600px; 
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    
+   
+}
+.temp2{
+    height: 1000px; 
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+ }
+ .div1 {
+border: 2px solid rgb(170, 156, 156) ;
+height: 300px;
+width: 300px;
+background-color: white;
+margin-top: 100px;
+margin-bottom: 50px;
+padding-bottom: 225px;
+border-radius:5px ;
+cursor: pointer;
+}
+.div2{
+    border: 2px solid rgb(170, 156, 156) ;
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 225px;
+    border-radius:5px ;
+    cursor: pointer;
+
+    
+    
+    }
+    .div3{
+        border: 2px solid rgb(170, 156, 156) ;
+        height: 300px;
+        width: 300px;
+        background-color: white;
+        margin-top: 150px;
+        margin-bottom: 50px;
+        padding-bottom: 225px;
+        border-radius:5px ;  
+        cursor: pointer; 
+        
+        }
+        .div4{
+            border: 2px solid rgb(170, 156, 156) ;
+            height: 300px;
+            width: 300px;
+            background-color: white;
+            margin-top: 100px;
+            margin-bottom: 50px;
+            padding-bottom: 225px;
+            border-radius:5px ;  
+            cursor: pointer; 
+            
+            }
+            .div5{
+                border: 2px solid rgb(170, 156, 156) ;
+                height: 300px;
+                width: 300px;
+                background-color: white;
+                
+              margin-top: 50px;
+                padding-bottom: 225px;
+                border-radius:5px ;  
+                cursor: pointer; 
+                
+                }
+                .div6{
+                    border: 2px solid rgb(170, 156, 156) ;
+                    height: 300px;
+                    width: 300px;
+                    background-color: white;
+                    margin-top: 150px;
+                    margin-bottom: 50px;
+                    padding-bottom: 225px;
+                    border-radius:5px ;  
+                    cursor: pointer; 
+                    
+                    }
+.img1{
+    border-radius: 5px;
+    border: black;
+}
+#sub{
+    background-color: gray;
+    height: 35px;
+    width: 120px;
+    margin-top: 52px;
+    margin-left:75px ;
+    cursor: pointer;
+    
+
+}
+.div1:hover{
+    width: 310px;
+    height: 310px;
+}

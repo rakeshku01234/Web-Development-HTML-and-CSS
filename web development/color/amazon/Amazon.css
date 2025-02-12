@@ -1,0 +1,24 @@
+body{
+margin: 0px;
+padding:0px;
+}
+.temp{
+    padding: 1px;
+    margin: 1px;
+    background-color: black;
+    width: 100%;
+   border:none;
+}
+.logo{
+    border: 2px white solid ;
+    border-style:hidden ;
+}
+    .temp2{
+        padding: 1px;
+        margin: 1px;
+        color: white;
+        width: 100%;
+       border:none;
+      padding-left:100px;
+      position: sticky;
+    }

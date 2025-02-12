@@ -1,0 +1,30 @@
+h1{
+    color: green;
+}
+p{
+color:green;
+}
+a{
+    color: green;
+}
+li{
+    list-style-type: square;
+}
+#Item{
+    color: blueviolet;
+    font-weight: bold;
+}
+span{
+color: coral;
+font-weight: bolder;
+}
+li em{
+    color: brown;
+    
+}
+h1+p{
+font-size: larger;
+}
+#li[Id="Item"]{
+    color:brown;
+}
